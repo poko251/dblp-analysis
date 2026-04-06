@@ -96,6 +96,6 @@ with tab3:
     st.plotly_chart(fig11, use_container_width=True)
     st.info("Chart shows 3 clusters of topics.")
 
-    df = pd.read_csv(r'static_charts\topic_samples.csv')
+    df = pd.read_csv(r'static_charts/topic_samples.csv')
     st.dataframe(df)
 
