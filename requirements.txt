@@ -4,3 +4,7 @@ sentence-transformers
 scikit-learn
 pandas
 streamlit
+python-dotenv
+pyarrow
+networkx
+google-genai
