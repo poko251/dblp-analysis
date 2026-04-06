@@ -25,8 +25,8 @@ chart_path10 = r'static_charts/author_collaboration_graph.json'
 
 
 #nlp charts
-chart_path11 = r'static_charts\topics_tsne_full.json'
-chart_path12 = r'static_charts\elbow_method.json'
+chart_path11 = r'static_charts/topics_tsne_full.json'
+chart_path12 = r'static_charts/elbow_method.json'
 
 with tab1:
 
