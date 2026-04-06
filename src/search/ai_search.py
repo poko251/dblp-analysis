@@ -45,5 +45,5 @@ def simple_search(user_query):
         return f"Error: {e} Generated code was: {ai_code}"
 
 if __name__ == "__main__":
-    query = input("daj mi dane z 2018 roku ")
+    query = input("YOUR PROMPT")
     print(simple_search(query))
