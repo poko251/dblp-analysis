@@ -3,7 +3,7 @@ import polars as pl
 from dotenv import load_dotenv
 from google import genai
 
-"""Query the database using plain English.It will instantly translate your natural language prompts into Polars code, retrieving the top 10  results.""" 
+"""Query the database using plain English.It will instantly translate your natural language prompts into Polars code, retrieving the top 10  results. It takes api key from .env which is hidden.""" 
 
 
 # load API 
